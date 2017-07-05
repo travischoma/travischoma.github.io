@@ -434,6 +434,10 @@
 *:after {
   box-sizing: border-box;
 }
+img.email-image {
+  height: 16px;
+  vertical-align: middle;
+}
 html {
   height: 100%;
   border-top: 2px solid #363533;
@@ -545,7 +549,7 @@ body {
 #header {
   max-width: 710px;
   width: 100%;
-  margin: 0 auto 3rem auto;
+  margin: 0 auto 2rem auto;
 }
 #header h1,
 #header .h1 {
